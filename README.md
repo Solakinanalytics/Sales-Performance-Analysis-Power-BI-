@@ -58,6 +58,6 @@ The dataset contains transactional sales records, including:
 ## Acknowledgment
 This project was recreated from a YouTube tutorial as part of a learning process, with personal interpretation applied to the analysis and insights.
 
-## Author
+
 Akinleye Oyinkansola Mary  
 Data Analyst | Business Analyst
